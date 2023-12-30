@@ -2,4 +2,4 @@ def name_of_function():
     """
     Simple test function
     """
-    print("Yoo hoo!")
+    print("Yaa lol!")

@@ -1,3 +1,3 @@
-my_string = "Morning Folks!"
+my_string = "Morning Guys!"
 my_list = [letter for letter in my_string]
 print(my_list)

@@ -1,7 +1,7 @@
-__author__ = "John ORaw"
-__contact__ = "barney@disney.com"
-__copyright__ = "Copyright $YEAR, JOR"
-__date__ = "12FEB23"
+__author__ = "RajaSekhara Reddy"
+__contact__ = "raja444reddy@.com"
+__copyright__ = "Copyright $YEAR, RAJA"
+__date__ = "23DEC23"
 __deprecated__ = False
 __license__ = "GPLv3"
 __status__ = "Production"

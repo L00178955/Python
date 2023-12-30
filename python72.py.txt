@@ -1,7 +1,7 @@
 """
 directory_utilities.py
-By: JOR
-Date: 01OCT22
+By: RAJA
+Date: 23DEC23
 """
 
 import os, platform

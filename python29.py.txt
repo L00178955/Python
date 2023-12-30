@@ -1,5 +1,5 @@
 my_list = []
-my_string = "Morning Folks!"
+my_string = "Morning Guys!"
 for letter in my_string:
     my_list.append(letter)
 
